@@ -1,2 +1,2 @@
-class Dog(dogs_name)
-  def dogs_name
+class Dog
+  def dogs_name=dogs_name
